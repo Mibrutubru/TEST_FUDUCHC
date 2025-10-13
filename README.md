@@ -5,3 +5,6 @@ kokot
 pica
 u 
 holica
+spinava
+rit
+a
