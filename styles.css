@@ -55,3 +55,13 @@ footer {
     color: #7f8c8d;
     font-size: 0.9em;
 }
+
+.cat-image {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
