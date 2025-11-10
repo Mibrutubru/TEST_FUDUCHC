@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Cat favicon">
+  <rect width="64" height="64" rx="8" fill="#ffd166"/>
+  <!-- ears -->
+  <path d="M18 12 L14 4 L24 8 Z" fill="#f4a261"/>
+  <path d="M46 12 L50 4 L40 8 Z" fill="#f4a261"/>
+  <!-- face -->
+  <circle cx="32" cy="36" r="18" fill="#ffffff"/>
+  <!-- eyes -->
+  <circle cx="26" cy="34" r="3" fill="#2b2d42"/>
+  <circle cx="38" cy="34" r="3" fill="#2b2d42"/>
+  <!-- nose -->
+  <path d="M32 38 Q34 40 32 42 Q30 40 32 38 Z" fill="#e76f51"/>
+  <!-- mouth whiskers -->
+  <path d="M20 42 L30 42" stroke="#2b2d42" stroke-width="1" stroke-linecap="round"/>
+  <path d="M34 42 L44 42" stroke="#2b2d42" stroke-width="1" stroke-linecap="round"/>
+</svg>
